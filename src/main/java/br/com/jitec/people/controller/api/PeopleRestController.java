@@ -6,8 +6,6 @@ import javax.validation.Valid;
 
 import org.modelmapper.ModelMapper;
 import org.modelmapper.TypeToken;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -41,9 +39,7 @@ public class PeopleRestController {
 	@Autowired
 	private ModelMapper modelMapper;
 
-	private Logger logger = LoggerFactory.getLogger(PeopleRestController.class);
-
-	@ApiOperation(value = "Get all the people in the database")
+	@ApiOperation(value = "Gets all People")
 	@ApiResponses(value = { @ApiResponse(code = 200, message = "OK") })
 	@GetMapping(produces = { MediaType.APPLICATION_JSON_VALUE })
 	public List<PersonResponse> getPeople() {
