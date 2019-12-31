@@ -1,0 +1,15 @@
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/PeopleWsApplication.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/service/dto/PersonDto.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/data/repository/PeopleRepository.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/controller/api/PeopleRestController.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/data/model/PersonMapper.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/service/PeopleService.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/exception/AppEntityNotFoundException.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/data/model/Person.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/util/DateUtil.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/exception/CustomGlobalExceptionHandler.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/controller/request/PersonRequest.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/util/BusinessPreconditions.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/SwaggerConfig.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/service/impl/PeopleServiceImpl.java
+/Users/itiburski/dev/estudos-java/projetos/People/people-ws/src/main/java/br/com/jitec/people/controller/response/PersonResponse.java
